@@ -1,7 +1,7 @@
 package kontakty.Models;
 
 import java.util.Date;
-
+//Class
 public class Osoby {
 
 	  private int idOsoby ;
